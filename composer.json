@@ -11,11 +11,5 @@
   "minimum-stability": "dev",
   "require": {
     
-  },
-  "autoload": {
-    "psr-4": {
-      "ZnPack\\Web\\": "src",
-      "ZnPack\\Web\\Tests\\": "tests"
-    }
   }
 }
